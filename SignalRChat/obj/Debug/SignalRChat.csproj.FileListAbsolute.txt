@@ -1,0 +1,51 @@
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\SignalRChat.dll
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\SignalRChat.pdb
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Newtonsoft.Json.dll
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Owin.dll
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Newtonsoft.Json.xml
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\obj\Debug\SignalRChat.dll
+C:\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\obj\Debug\SignalRChat.pdb
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\SignalRChat.dll
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\SignalRChat.pdb
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Newtonsoft.Json.dll
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Owin.dll
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\bin\Newtonsoft.Json.xml
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\obj\Debug\SignalRChat.dll
+F:\Projects\Project Backup\17 May 2013 Windows 7 Virtual Machine\ChapApp\SignalRChatRoom\SignalRChatRoom\SignalRChat\obj\Debug\SignalRChat.pdb
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\SignalRChat.dll
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\SignalRChat.pdb
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\Newtonsoft.Json.dll
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\Owin.dll
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Blogs\SignalR\LiveScore\SignalRChat\bin\Newtonsoft.Json.xml
+D:\Blogs\SignalR\LiveScore\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+D:\Blogs\SignalR\LiveScore\SignalRChat\obj\Debug\SignalRChat.dll
+D:\Blogs\SignalR\LiveScore\SignalRChat\obj\Debug\SignalRChat.pdb
